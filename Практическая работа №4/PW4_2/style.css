@@ -1,0 +1,59 @@
+a:link 
+{
+	color: #990000;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color: #ff0033;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:active 
+{
+	color: #CC9933;
+	font-weight: bold;
+	text-decoration: underline;
+	background-color: #000099;
+}
+
+a:visited 
+{
+	color: #CC9933; font-weight: 100;text-decoration: none;
+}
+
+h1 
+{
+    text-align: center;
+}
+h2
+{
+   text-align: center;
+    color: maroon;
+}
+p
+{
+     margin-left: 2.5cm;
+}
+li
+{
+   
+    list-style-position: outside;
+    margin-left: 10cm;
+    font-size: 25px;
+}
+ul
+{
+     font-family: sans-serif;
+}
+body
+{
+    background-image: url(http://7oom.ru/powerpoint/krasivie-fony-dlya-prezentacii-24.jpg); background-size: 110%;
+}
+ol
+{
+    font-size:20px;   
+}

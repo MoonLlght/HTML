@@ -1,0 +1,45 @@
+
+a:link 
+{
+	color: #990000;
+	font-weight: 100;
+	text-decoration: none;
+}
+
+a:hover 
+{
+	color: #ff0033;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+a:active 
+{
+	color: #CC9933;
+	font-weight: bold;
+	text-decoration: underline;
+	background-color: #000099;
+}
+
+a:visited 
+{
+	color: #CC9933; font-weight: 100;text-decoration: none;
+}
+
+li 
+{
+	font-size: 30px;
+	height: 50px;
+	text-align: right;
+	margin-top: 50px;
+}
+
+body
+{
+	background-image: url(http://7oom.ru/powerpoint/abstraktnye-fony-dlya-prezentacii-volny-14.jpg); background-size: 110%;
+}
+
+h1
+{
+	text-align: right;
+}
